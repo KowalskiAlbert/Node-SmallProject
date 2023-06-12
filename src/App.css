@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.addr {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+  font-size: 24px;
+  text-align: center;
+}
+.infoView {
+  font-size: 14px;
+  padding-left: 50px;
+  width: 700px;  
+}
+.Result {
+  margin: 0 auto;
+}
